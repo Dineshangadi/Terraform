@@ -2,7 +2,7 @@ Variable “sai” {
 }
 Variable “cidir”{
 }
-Variable “publiccidir”{
+Variable “publiccidir” {
 }
-Variable “privatecidir”{
+Variable “privatecidir” {
 }
