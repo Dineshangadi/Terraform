@@ -4,5 +4,5 @@ Variable “cidir”{
 }
 Variable “publiccidir”{
 }
-Variable “private”{
+Variable “privatecidir”{
 }
