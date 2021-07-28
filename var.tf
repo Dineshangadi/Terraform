@@ -1,6 +1,6 @@
 Variable “sai” {
 }
-Variable “cidir”{
+Variable “cidir” {
 }
 Variable “publiccidir” {
 }
