@@ -1,8 +1,8 @@
-variable 'sai' = {
+variable "sai"= {
 }
-variable 'cidir' = {
+variable "cidir" = {
 }
-variable 'publiccidir'= {
+variable "publiccidir'= {
 }
-variable 'privatecidir' = {
+variable "privatecidir" = {
 }
